@@ -1,7 +1,7 @@
-pandas
 beautifulsoup4
 requests
+pandas
 scikit-learn
 joblib
 streamlit
-
+schedule
