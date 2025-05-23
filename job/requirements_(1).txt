@@ -1,5 +1,7 @@
 pandas
-streamlit
+beautifulsoup4
+requests
 scikit-learn
 joblib
-beautifulsoup4
+streamlit
+
